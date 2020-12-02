@@ -1,0 +1,2 @@
+# Taskbar stays on top on full screen
+[Restart the Windows Explorer process in Task Manager!](https://www.howtogeek.com/198815/use-this-secret-trick-to-close-and-restart-explorer.exe-in-windows/#:~:text=Just%20press%20Ctrl%2BShift%2BEsc%20to%20open%20Task%20Manager.,OK%E2%80%9D%20to%20relaunch%20Windows%20Explorer.)
